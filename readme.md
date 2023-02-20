@@ -18,9 +18,13 @@ In this repository you will find class works from study, practice and lab assign
 
 1. Classification of work based on language (javascript or c)
 2. Classification based on type of lesson:
+
 Lab = Labaratory
+
 Vaje = Auditorium rehearsals
+
 Predavanja = Class
+
 3. Organised code by dates (yyyy.mm.dd)
 
 ## Contributions
