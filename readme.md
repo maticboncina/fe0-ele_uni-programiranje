@@ -28,4 +28,4 @@ Predavanja = Class
 3. Organised code by dates (yyyy.mm.dd)
 
 ## Contributions
-This is a personal space, this contributions or pull requests will not be accepted. If you notice a mistake, please correct it locally.
+This is a personal space, thus contributions or pull requests will not be accepted. If you notice a mistake, please correct it locally.
