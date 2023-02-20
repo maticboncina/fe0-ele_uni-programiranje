@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/fe.png" style="padding: 32px" />
+  <img src="fe.png" style="padding: 32px" />
 </p>
 
 # Programming Fundementals - UNI LJ - Electroengineering University (Year 1) - 2022/2023
