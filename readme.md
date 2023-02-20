@@ -5,6 +5,7 @@
 # Programming Fundementals - UNI LJ - Electroengineering University (Year 1) - 2022/2023
 
 Professor: prof. dr. Iztok Fajfar (I. & II. semester)
+
 Assistants: doc. dr. Janez Puhan (I. & II. semester), as. dr. Žiga Rojec (I. semester)
 
 ## Intro 
@@ -23,4 +24,4 @@ Predavanja = Class
 3. Organised code by dates (yyyy.mm.dd)
 
 ## Contributions
-As this is a personal space contributions are not welcomed. If you notice a mistake, please correct it locally
+This is a personal space, this contributions or pull requests will not be accepted. If you notice a mistake, please correct it locally.
