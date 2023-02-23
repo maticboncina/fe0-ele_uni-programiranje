@@ -22,13 +22,16 @@ Unspecified behaviour
 
 ---
 Primerjalni operatorji
-
 ---
 Kratkostično računanje
 (short curcuit calculation)
 
 "vedno začnemo na levi strani"
+
 ---
 If(izraz) stavek 1
 else stavek 2
 
+---
+Sestavljeni stavki
+---
