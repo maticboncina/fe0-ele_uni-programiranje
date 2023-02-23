@@ -1,0 +1,34 @@
+Pregled snovi 23.2.2023
+
+Priredilni operator
+x = 19
+y+ x = 19
+
+l value = vrednost, ki se lahko pojavi na levi strani operatorja
+
+---
+Compound assignments
+x = x + 10 --> x+=10
+y = y * 2 --> y *= 2
+
+---
+Increment / decrament
+x++ = poveča in izpiše staro
+++x = poveča in izpiše novo
+
+---
+Unspecified behaviour
+5 * x - 10 * y 
+
+---
+Primerjalni operatorji
+
+---
+Kratkostično računanje
+(short curcuit calculation)
+
+"vedno začnemo na levi strani"
+---
+If(izraz) stavek 1
+else stavek 2
+
