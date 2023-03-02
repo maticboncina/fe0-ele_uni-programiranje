@@ -1,0 +1,38 @@
+pogojni operator
+
+? in :
+
+pogoj ? izraz 1 : izraz 2
+
+pogoj se vedno izračuna
+
+--------------------
+Termnarni operator
+Potrebuje tri operande
+
+pogoj != 0 --> izraz ene se izvede
+pogoj == 0 --> izraz dve se izvede
+--------------------
+Stavek switch
+
+Stavek break prekine izvajanje stavka switch. 
+
+za case je lahko samo celoštevilske konstante.
+--------------------
+Stavek for
+
+- deklaracija
+- opuščanje izrazov
+- neskončna zanka
+-------------------
+Vejični operator
+izraz1, izraz2, izraz3, 
+-------------------
+"skočni ukazi"
+Continue
+goto
+break
+------------------
+dvojiški zapis celega števlila
+------------------
+dvojiški komplement
