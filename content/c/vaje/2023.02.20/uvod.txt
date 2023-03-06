@@ -1,6 +1,0 @@
-// MacOS compile without/with debug
-
-gcc vajax.c -o vajax.out
-gcc vajax.c -g -o vajax.out
-
-gdb vaja.out
