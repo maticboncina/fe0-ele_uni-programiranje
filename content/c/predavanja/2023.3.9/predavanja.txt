@@ -1,0 +1,60 @@
+DOGOVORI:
+
+Ne predznačena cela števila
+
+predznak
+MSB 0 = +
+    1 = -
+
+Negativna števila so zapisan v dvojiškem komplementu
+---------------
+PREDZNAČENA števila
+
+največja pozitivna vrednost: 2^(n-1) - 1
+najmanjša pozitivna vrednost: -2^(n-1)
+
+----------------
+NEPREDZNAČENA števila
+
+največja pozitivna vrednost: 2^(n) - 1
+----------------
+
+short = vsaj 16 bitov
+int = 16 < x < 32 bita (odvisno od sistema)
+long = 32
+
+----------------
+
+Realna števila (plavajoča vejica)
+
+float  32 bitov 6 mest 10^+-38
+double 64 bitov 15 mest 10^+-308
+
+----------------
+
+lahko daš tudi e v printf
+
+izpisovanje na 6 mest "%.6"
+
+----------------
+
+Znaki ASCII
+
+Cela števila 8 bitov
+
+A = 65
+B = 66
+
+char 1 byte
+
+signed vs unsigned char
+
+-----------------
+pretvorba tipov
+
+promotion  --> primer: float v double ali v short v long (iz manjšega v večje gre)
+
+Problem: trg predznačenega in nepredznačenega celega števila
+predznačeno --> nepredznačenega
+
+neprednačenih števil ne uporabljaje razen če ni razloga za to, ker je lahko preveč buggov
