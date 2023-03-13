@@ -27,3 +27,9 @@ double square_root(double d) {
     }
     return y;
 }
+
+// Rešitev z babilonsko metodo. Zna tudi izločiti negativne številke. 
+
+/*
+Babilonska metoda za izračun kvadratnega korena števila d vključuje večkratno izboljšanje začetne ocene x za kvadratni koren z uporabo formule (x + d/x)/2, dokler razlika med x in novo oceno y ni pod določenim pragom, v tem primeru 0,000001. Ta iterativni postopek se izvede v funkciji square_root() z uporabo zanke while.
+*/
