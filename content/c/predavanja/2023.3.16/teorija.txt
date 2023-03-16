@@ -1,0 +1,44 @@
+Predznačeno in neprednznačeno deljenje
+
+-2 mod 2^32
+
+Nepredznačenih števil ne uporablajmo brez huje nuje
+----------
+Realni v celo število
+
+Kar je za deciilamno vejice se odreže
+
+-3.8 --> -3
+14.5 --> 14
+-3.2 --> -3
+
+-------------
+Začasna pretvorba tipa
+
+-------------
+KAZALCI
+
+& == naslovni operator
+
+Kazalec je pomnilniški naslov
+-------------
+Ničelni kazalec (NULL)
+
+if (k != NULL) --> Če sem ga inicializiral do that...
+-------------
+FUNKCIJE
+učb 76 - teorija
+
+prototip funkcije = ohišje funkcije
+
+-----------
+OBMOČJE funkcije in datoteke - stran 82
+
+obstoj funkcije 
+- avtomatični obstoj
+Ko jo pokličemo še nekrat se ustvari na novo in se ne spomni prejšnje vrednosti
+
+ne dajat velkih stvari bv main, ker stack ni nujno pernament velik storage
+
+- statično obstoj
+obstajajo skos in ohranjajo svojo vrednost
