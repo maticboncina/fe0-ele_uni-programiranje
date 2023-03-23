@@ -1,3 +1,21 @@
 scanf("%d", &x);
 
 vedno moraš podati naslov spremenljivke, da lahko menjamo vrednosti
+
+---------------------------------
+potenca kazalec na funkcijo:
+
+double (*potenca) 
+
+---------------------------------
+POWER
+
+double pow (double, double);
+
+---------------------------------
+IME tabele je prvi naslov
+
+---------------------------------
+OPERACIJE MED KAZALCI
+
+
