@@ -1,0 +1,3 @@
+scanf("%d", &x);
+
+vedno moraš podati naslov spremenljivke, da lahko menjamo vrednosti

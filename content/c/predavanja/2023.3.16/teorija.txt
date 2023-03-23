@@ -42,3 +42,6 @@ ne dajat velkih stvari bv main, ker stack ni nujno pernament velik storage
 
 - statično obstoj
 obstajajo skos in ohranjajo svojo vrednost
+
+---------
+Lokalna staična spremenljivka ne sledi temu pravilu 
