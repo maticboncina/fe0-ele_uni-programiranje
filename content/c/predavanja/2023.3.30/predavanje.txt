@@ -1,0 +1,6 @@
+quick sort
+
+qsort
+------------
+Znakovni nizi se morjo zaključit z "\0"
+
